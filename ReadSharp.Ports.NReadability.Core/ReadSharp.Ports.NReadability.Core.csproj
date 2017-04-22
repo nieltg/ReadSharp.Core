@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
     <RootNamespace>ReadSharp.Ports.NReadability</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>nieltg</Authors>
+    <Company />
+    <Description>NReadability part for ReadSharp.Core library</Description>
+    <Copyright>2017</Copyright>
+    <PackageLicenseUrl>https://github.com/nieltg/ReadSharp.Core/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/nieltg/ReadSharp.Core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nieltg/ReadSharp.Core</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
