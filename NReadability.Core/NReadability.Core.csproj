@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SgmlReader.Core\SgmlReader.Core.csproj" />
+    <ProjectReference Include="..\ReadSharp.Ports.SgmlReader.Core\ReadSharp.Ports.SgmlReader.Core.csproj" />
   </ItemGroup>
 
 </Project>
