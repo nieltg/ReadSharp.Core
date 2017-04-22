@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>nieltg</Authors>
+    <Company />
+    <Description>A porting of ReadSharp library for .NET Standard 1.6 platform</Description>
+    <Version>1.0.0</Version>
+    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <PackageProjectUrl>https://github.com/nieltg/ReadSharp.Core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nieltg/ReadSharp.Core</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/nieltg/ReadSharp.Core/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>2017</Copyright>
+    <RepositoryType></RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
