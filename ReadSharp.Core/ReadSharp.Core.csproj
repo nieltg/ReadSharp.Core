@@ -14,6 +14,7 @@
     <PackageLicenseUrl>https://github.com/nieltg/ReadSharp.Core/blob/master/LICENSE</PackageLicenseUrl>
     <Copyright>2017</Copyright>
     <RepositoryType></RepositoryType>
+    <RootNamespace>ReadSharp</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
