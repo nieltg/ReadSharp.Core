@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NReadability.Core\NReadability.Core.csproj" />
+    <ProjectReference Include="..\ReadSharp.Ports.NReadability.Core\ReadSharp.Ports.NReadability.Core.csproj" />
   </ItemGroup>
 
 </Project>
