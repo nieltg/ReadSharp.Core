@@ -272,7 +272,10 @@ namespace ReadSharp.Ports.NReadability
 
       element.RemoveAll();
 
-      var tmpElement = new SgmlDomBuilder().BuildDocument(html);
+      // Workaround: .NETStandard's XDocument doesn't automatically add root node.
+      var rootHtml = "<html>" + html + "</html>";
+
+      var tmpElement = new SgmlDomBuilder().BuildDocument(rootHtml);
 
       if (tmpElement.Root == null)
       {
