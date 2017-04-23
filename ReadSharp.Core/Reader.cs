@@ -312,7 +312,7 @@ namespace ReadSharp
         }
         catch (HttpRequestException exc)
         {
-          throw new ReadException(exc.Message);
+          throw new ReadException(exc.Message, exc);
         }
 
         // validate HTTP response
@@ -362,7 +362,7 @@ namespace ReadSharp
       }
       catch (Exception exc)
       {
-        throw new ReadException(exc.Message);
+        throw new ReadException(exc.Message, exc);
       }
       finally
       {
