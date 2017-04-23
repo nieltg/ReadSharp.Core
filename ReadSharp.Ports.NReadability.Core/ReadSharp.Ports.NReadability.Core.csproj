@@ -14,6 +14,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Resources\readability.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ReadSharp.Ports.SgmlReader.Core\ReadSharp.Ports.SgmlReader.Core.csproj" />
   </ItemGroup>
 
