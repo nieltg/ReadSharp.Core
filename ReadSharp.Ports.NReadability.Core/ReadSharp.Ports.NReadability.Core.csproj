@@ -11,6 +11,8 @@
     <PackageLicenseUrl>https://github.com/nieltg/ReadSharp.Core/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/nieltg/ReadSharp.Core</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nieltg/ReadSharp.Core</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <PackageId>ReadSharp.Ports.NReadability.Core</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
