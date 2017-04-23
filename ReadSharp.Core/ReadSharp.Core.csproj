@@ -6,9 +6,9 @@
     <Authors>nieltg</Authors>
     <Company />
     <Description>A porting of ReadSharp library for .NET Standard 1.6 platform</Description>
-    <Version>1.0.1</Version>
-    <FileVersion>1.0.1.0</FileVersion>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.2</Version>
+    <FileVersion>1.0.2.0</FileVersion>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
     <PackageProjectUrl>https://github.com/nieltg/ReadSharp.Core</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nieltg/ReadSharp.Core</RepositoryUrl>
     <PackageLicenseUrl>https://github.com/nieltg/ReadSharp.Core/blob/master/LICENSE</PackageLicenseUrl>
